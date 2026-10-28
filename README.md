@@ -111,6 +111,9 @@ Clone the repository and run the commands below in your terminal:
   pip install -r requirements.txt
   jupyter notebook
 ```
+## Author & Information
+**Author**: Adriana Mimo Carrasco
 
+**Project Title**: Demonstration of the existence of dark matter through rotation curve comparison, halo generation, and galaxy simulations. 
 
 
