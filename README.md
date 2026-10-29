@@ -97,15 +97,15 @@ This repository follows the following structure:
 * **requirements.txt**: Libraries that need to be installed before running the code.
 * **stability_simulation_baryonic_matter.ipynb**: Stability simulation (galaxy without dark matter).
 * **stability_simulation_dark_matter.ipynb**: Stability simulation (galaxy with dark matter).
-* **comparison_error:rotation_curve.ipynb**: Comparison of rotation curves and error calculation.
+* **comparison_error_rotation_curve.ipynb**: Comparison of rotation curves and error calculation.
 * **3d_dark_matter_density_heatmap.ipynb**: 3D density map (dark matter halo distribution).
 
 ## How to run the project
 This project was developed using **Jupyter Notebook**. There are two options to run the code:
 ### Option 1 (Google Colab)
 Open the file that contains the code you want to run and click on the *Open in Colab* button. By doing that, a Google Colab file will be created where you will be able to run the simulation. You can also click these buttons:
-* **d_dark_matter_density_heatmap.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/3d_dark_matter_density_heatmap.ipynb)
-* **comparison_error:rotation_curve.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/comparison_error_rotation_curve.ipynb)
+* **3d_dark_matter_density_heatmap.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/3d_dark_matter_density_heatmap.ipynb)
+* **comparison_error_rotation_curve.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/comparison_error_rotation_curve.ipynb)
 * **stability_simulation_baryonic_matter.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/stability_simulation_baryonic_matter.ipynb)
 * **stability_simulation_dark_matter.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/stability_simulation_dark_matter.ipynb)
 ### Option 2 (Locally) 
