@@ -104,10 +104,10 @@ This repository follows the following structure:
 This project was developed using **Jupyter Notebook**. There are two options to run the code:
 ### Option 1 (Google Colab)
 Open the file that contains the code you want to run and click on the *Open in Colab* button. By doing that, a Google Colab file will be created where you will be able to run the simulation. You can also click these buttons:
-* **3d_density_heatmap.ipynb**: 
-* **Comparison_rotation_curve.ipynb**: 
-* **baryonic_matter_stability.ipynb**: 
-* **dark_matter_stability.ipynb**: 
+* **d_dark_matter_density_heatmap.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/3d_dark_matter_density_heatmap.ipynb)
+* **comparison_error:rotation_curve.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/comparison_error_rotation_curve.ipynb)
+* **stability_simulation_baryonic_matter.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/stability_simulation_baryonic_matter.ipynb)
+* **stability_simulation_dark_matter.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianamimo/dark-matter-ngc3198-simulation/blob/main/stability_simulation_dark_matter.ipynb)
 ### Option 2 (Locally) 
 Clone the repository and run the commands below in your terminal:
 ```bash
