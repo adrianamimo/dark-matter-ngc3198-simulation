@@ -75,7 +75,7 @@ The phenomenon of flat rotation curves, as observed by Vera Rubin, has been iden
 
 These are the errors of both simulated galaxies:
 
-<img width="383" height="109" alt="Captura de Pantalla 2026-10-29 a las 19 47 52" src="https://github.com/user-attachments/assets/d993300b-0ed3-422b-a138-7928521fb420" />
+<img width="386" height="108" alt="Captura de Pantalla 2026-10-29 a las 20 08 53" src="https://github.com/user-attachments/assets/ecd9f432-c3dd-451f-aa1a-8c8b18b050ab" />
 
 
 ### 3D Density Map
