@@ -119,6 +119,6 @@ Clone the repository and run the commands below in your terminal:
 ## Author & Information
 **Author**: Adriana Mimo Carrasco
 
-**Project Title**: Demonstration of the existence of dark matter through rotation curve comparison, halo generation, and galaxy simulations. 
+**Project Title**: Evidence of the existence of dark matter through rotation curve comparison, halo generation, and galaxy simulations. 
 
 
